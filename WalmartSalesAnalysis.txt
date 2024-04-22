@@ -1,0 +1,15 @@
+About the data
+This data is obtained from Kaggle Walmart sales forecasting competition. It contains sales transactions of three different branches of Walmart
+
+Product analysis
+Perform the analysis on the dataset to understand the best performing products, and identify the areas for improvement in other products
+
+Sales analysis is used to understand the sales trends of the products.
+This analysis helps to understand the different sales strategy applied in the business and indentify the necessary changes
+to improve the sales.
+
+Customer analysis is used to understand the customer segments,purchase trends and profitability of customer segments.
+
+
+Walmart Sales data analyzing is used to understand the sales trends, buying behaviour of customers and most buying products.
+
