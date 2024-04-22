@@ -1,0 +1,3 @@
+Sales Analysis
+This project objectives is to understand the Monthly sales trends, top performing products based on sales, most selling products, most preferable ship Mode,
+Profitable Category and Subcategory.
